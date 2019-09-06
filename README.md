@@ -69,6 +69,9 @@ SaaS, or Software-as-a-Service, allows using software on a subscription basis.
 
 https://github.com/karthequian/awesome-oci
 
+https://github.com/tschf/awesome-oracle-cloud
+
+
 
 ## About this document
 
