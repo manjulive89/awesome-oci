@@ -65,6 +65,11 @@ PaaS, or Platform-as-a-Service, more of the middle tier where you don't need to 
 
 SaaS, or Software-as-a-Service, allows using software on a subscription basis.
 
+## Other Awesome Lists
+
+https://github.com/karthequian/awesome-oci
+
+
 ## About this document
 
 Creator: @valdecircarvalho
