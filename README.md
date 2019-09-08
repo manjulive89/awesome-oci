@@ -1,4 +1,9 @@
-# Awesome-oci [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Awesome OCI][logo]
+
+[logo]: media/awesome-oracle-cloud-infrastructure.png "Awesome Oracle Cloud Infrastructure"
+
+
+# Awesome-oci 
 
 ## Oracle Cloud Infrastructure
 
@@ -7,18 +12,22 @@ A curated list of awesome resources for learning and using [Oracle Cloud](https:
 
 ## Table of Contents
 
-* [General](#General)
-  * [Education](#Education)
-  * [Blogs](#Blogs)
-  * [Presentations](#Presentations)
-  * [Articles](#articles)
-* [IaaS](#iaas)
-* [PaaS](#paas)
-* [SaaS](#saas)
-* [About This Document](#about-this-document)
-  * [License](#license)
-  * [Disclaimer](#disclaimer)
-  * [Contributing](#contributing)
+- [Awesome-oci](#awesome-oci)
+  - [Oracle Cloud Infrastructure](#oracle-cloud-infrastructure)
+  - [Table of Contents](#table-of-contents)
+  - [General](#general)
+    - [Education](#education)
+    - [Blogs](#blogs)
+    - [Twitter](#twitter)
+    - [Presentations](#presentations)
+    - [Articles](#articles)
+  - [IaaS](#iaas)
+  - [PaaS](#paas)
+  - [SaaS](#saas)
+  - [Other Awesome Lists](#other-awesome-lists)
+  - [About this document](#about-this-document)
+    - [Disclaimer](#disclaimer)
+    - [Contributing](#contributing)
 
 ## General
 
