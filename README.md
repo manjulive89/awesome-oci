@@ -194,19 +194,19 @@ Sun Veteran, Infrastructure Technology Expert @ Oracle. Follow me for insights i
 [@recursivecodes](https://twitter.com/recursivecodes)
 Problem solver, tinkerer, full-stack developer, author and speaker. Developer Advocate for Cloud & DB @Oracle. Views and tweets are my own.
 
-Karthik Gaekwad
+**Karthik Gaekwad**
 [@iteration1](https://twitter.com/iteration1)
 I live in Austin, work with @golang, k8s & containers at Oracle; @lynda author; organize @devopsdays,@container_days and @cloud_austin. Views are my own
 
-Kaslin Fields
+**Kaslin Fields**
 [@kaslinfields](https://twitter.com/kaslinfields)
 Professional "Explain Like I'm 5"-er, comic creator, cloud native tech enthusiast, probably Kubernetes-ing right now. Banner & comic art by me! She/Her.
 
-Bob Quillin
+**Bob Quillin**
 [@bobquillin](https://twitter.com/bobquillin)
 Co-founder StackEngine. Now VP Oracle Developer Relations. Startup junkie. Sometimes foodie. Automation fanatic. Cocktail nerd. Goin' fishing.
 
-Andrea Marchesini
+**Andrea Marchesini**
 [@amarchesini75](https://twitter.com/amarchesini75)
 IaaS Product Manager @ Oracle. Views expressed are my own
 
