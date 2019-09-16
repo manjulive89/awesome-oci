@@ -113,21 +113,37 @@ Fully managed publish-subscribe service that allows for messages to be pushed wi
 Enterprise grade security, infrastructure and software to any edge location: Oracle Tactical Edge Cloud subscription-based offering brings mission-critical performance to the edge with a broad mix of compute cores storage and software all running in a ruggedized enclosure.
 
 
-## Docs
+### Docs
+
+Official Docs
+
+* Getting Started - https://cloud.oracle.com/iaas/getting-started
+* Oracle Cloud Jump Start – https://cloud.oracle.com/jumpstart
+* Cloud Service Map – https://cloud.oracle.com/iaas/cloud-service-mapping
+* Docs – https://docs.cloud.oracle.com/iaas/Content/home.htm
+* Pricing – https://cloud.oracle.com/iaas/pricing
+* Cost Estimator – https://cloud.oracle.com/cost-estimator
+
+### Blogs (Oracle)
+
+* [Cloud Infrastructure Blog](https://blogs.oracle.com/cloud-infrastructure/)
+* [Oracle Cloud blog](https://blogs.oracle.com/developers/cloud-dev)
+
+### Blogs (Community)
+
+Community blogs with Oracle Cloud content.
+
+#### English
+* [resursive.codes](http://recursive.codes/) - Blog by [Todd Sharp](https://twitter.com/recursivecodes), Developer Evangelist for Oracle focusing on Cloud technologies,
+* [That Finish Guy](https://www.thatfinnishguy.blog/) - Blog by Simo Vilmunen
+
+#### Portuguese
+
+#### Spanish
 
 
-Getting Started - https://cloud.oracle.com/iaas/getting-started
-Oracle Cloud Jump Start – https://cloud.oracle.com/jumpstart
-Cloud Service Map – https://cloud.oracle.com/iaas/cloud-service-mapping
-Docs – https://docs.cloud.oracle.com/iaas/Content/home.htm
-Pricing – https://cloud.oracle.com/iaas/pricing
-Cost Estimator – https://cloud.oracle.com/cost-estimator
 
-### Official Oracle Blogs
-
-Cloud Infrastructure Blog – https://blogs.oracle.com/cloud-infrastructure/
-
-### Education
+## Education
 
 * [OCI Foundation](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu_Eu3JcqXs7zyKSSd-lbq1) (YouTube playlist)
 * [OCI Level 100 Training](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvn8dpgrIKNdBOHT7AoMZlw) (YouTube playlist) - much the same as OCI Foundation, except it includes additional videos/topics
@@ -138,75 +154,68 @@ Cloud Infrastructure Blog – https://blogs.oracle.com/cloud-infrastructure/
 
 ### Certification
 
-### Community Blogs 
-Community blogs with Oracle Cloud content.
-
-#### English
-* [Oracle Cloud blog](https://blogs.oracle.com/developers/cloud-dev)
-* [resursive.codes](http://recursive.codes/) - Blog by [Todd Sharp](https://twitter.com/recursivecodes), Developer Evangelist for Oracle focusing on Cloud technologies,
-* [That Finish Guy](https://www.thatfinnishguy.blog/) - Blog by Simo Vilmunen
-
-#### Portuguese
-
-#### Spanish
-
 
 ### Twitter
 Who to follow on twitter
 
-**David Owen**
+_Official Oracle Accounts_
+
+
+_Community Accounts:_
+
+* **David Owen**
 [@vMackem](https://twitter.com/vMackem)
 Oracle IaaS Product Manager for OCI - VMUG leader - VMware vExpert 2011-19. Massive SAFC fan (for my sins) - Tweets are my own, not my employers.
 
-**Leo Leung**
+* **Leo Leung**
 [@lleung](https://twitter.com/lleung)
 Product & Strategy @OracleCloud. Alum: @Scality @OxygenCloud @EMC @TepperCMU. Cloud, storage, tech, barbecue, DJ. Opinions are mine. Hope to be worthy.
 
-**𝙱𝚎𝚗 𝙷𝚊𝚠𝚘𝚛𝚝𝚑**
+* **𝙱𝚎𝚗 𝙷𝚊𝚠𝚘𝚛𝚝𝚑**
 [@benhaworth](https://twitter.com/benhaworth)
 Helping customers design/use Oracle Cloud. STEM & former Bloodhound Ambassador. Dad of two boys, Husband, Golfer and England Rugby Fan. Tweets are my own.
 
-**Guillermo Ruiz**
+* **Guillermo Ruiz**
 [@IaaSgeek](https://twitter.com/IaaSgeek)
 EMEA Cloud at Oracle - CiscoChampion, vExpert, OCIChampion, vBeard | IaaS | Networks | Satellites | Ötillö believer | Cycling | **Tweets are my own**
 
-**Prasenjit Sarkar**
+* **Prasenjit Sarkar**
 [@stretchcloud](https://twitter.com/stretchcloud)
 Product Manager at Oracle | 12 Patents & 6 books | Cloud Native Applications | Kubernetes | Serverless. Tweets are mine and not my employer.
 
-**Simo Vilmunen**
+* **Simo Vilmunen**
 [@svilmune](https://twitter.com/svilmune)
 Cloud,Infrastructure,Databases | Oracle ACE Associate | OCI Weekly Newsletter | Blogging on #OCI & #AWS & #IaC | All opinions my own | Finnish 🇫🇮 living in 🍁
 
-**Gilson Melo**
+* **Gilson Melo**
 [@gmelo33](https://twitter.com/gmelo33)
 Helping build the next gen ☁️Cloud @ Oracle
 
-**Christoph Ruepprich 👨‍💻**
+* **Christoph Ruepprich 👨‍💻**
 [@CRuepprich](https://twitter.com/CRuepprich)
 Dad, Hubby, DOUG Board member, Oracle Ace, Crossfitter, Bass Player, Boardgamer
 
-**Phil Dunn**
+* **Phil Dunn**
 [@Phil_Dunn1](https://twitter.com/Phil_Dunn1)
 Sun Veteran, Infrastructure Technology Expert @ Oracle. Follow me for insights into how #Oracle brings business value to #Cloud & #Infrastructure, Views my own
 
-**Todd Sharp**
+* **Todd Sharp**
 [@recursivecodes](https://twitter.com/recursivecodes)
 Problem solver, tinkerer, full-stack developer, author and speaker. Developer Advocate for Cloud & DB @Oracle. Views and tweets are my own.
 
-**Karthik Gaekwad**
+* **Karthik Gaekwad**
 [@iteration1](https://twitter.com/iteration1)
 I live in Austin, work with @golang, k8s & containers at Oracle; @lynda author; organize @devopsdays,@container_days and @cloud_austin. Views are my own
 
-**Kaslin Fields**
+* **Kaslin Fields**
 [@kaslinfields](https://twitter.com/kaslinfields)
 Professional "Explain Like I'm 5"-er, comic creator, cloud native tech enthusiast, probably Kubernetes-ing right now. Banner & comic art by me! She/Her.
 
-**Bob Quillin**
+* **Bob Quillin**
 [@bobquillin](https://twitter.com/bobquillin)
 Co-founder StackEngine. Now VP Oracle Developer Relations. Startup junkie. Sometimes foodie. Automation fanatic. Cocktail nerd. Goin' fishing.
 
-**Andrea Marchesini**
+* **Andrea Marchesini**
 [@amarchesini75](https://twitter.com/amarchesini75)
 IaaS Product Manager @ Oracle. Views expressed are my own
 
