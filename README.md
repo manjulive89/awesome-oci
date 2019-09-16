@@ -2,6 +2,7 @@
 
 [logo]: media/awesome-oracle-cloud-infrastructure.png "Awesome Oracle Cloud Infrastructure"
 
+:bangbang: If you have or know of some useful resources surrounding Oracle Cloud, please go ahead and add it in via a Pull Request or open a new Issue. Please contribute and let's make this list big and useful for the community. :bangbang:
 
 # Awesome-OCI - A Community List of AWESOME Oracle Cloud Resources
 
@@ -126,12 +127,15 @@ Official Docs
 
 ### Blogs (Oracle)
 
+* [Oracle Blog Directory](https://blogs.oracle.com/blogdirectory)
 * [Cloud Infrastructure Blog](https://blogs.oracle.com/cloud-infrastructure/)
 * [Oracle Cloud blog](https://blogs.oracle.com/developers/cloud-dev)
+* [LAD Cloud Experts Portuguese Blog](https://blogs.oracle.com/lad-cloud-experts/pt/lad-cloud-experts-portuguese)
+* [LAD Cloud Experts Spanish Blog](https://blogs.oracle.com/lad-cloud-experts/es/)
 
 ### Blogs (Community)
 
-Community blogs with Oracle Cloud content.
+Community blogs in English with Oracle Cloud content.
 
 #### English
 * [resursive.codes](http://recursive.codes/) - Blog by [Todd Sharp](https://twitter.com/recursivecodes), Developer Evangelist for Oracle focusing on Cloud technologies,
@@ -139,9 +143,16 @@ Community blogs with Oracle Cloud content.
 
 #### Portuguese
 
+Community blogs in Portuguese with Oracle Cloud content.
+
+
+:soon:
+
 #### Spanish
 
+Community blogs in Spanish with Oracle Cloud content.
 
+:soon:
 
 ## Education
 
@@ -154,12 +165,17 @@ Community blogs with Oracle Cloud content.
 
 ### Certification
 
+:soon:
+
 
 ### Twitter
 Who to follow on twitter
 
 _Official Oracle Accounts_
 
+* **Oracle Cloud**
+[@OracleCloud](https://twitter.com/OracleCloud)
+Oracle aims to make cloud computing fully enterprise-grade and supports both public and private cloud computing to give customers choice.
 
 _Community Accounts:_
 
@@ -221,9 +237,18 @@ IaaS Product Manager @ Oracle. Views expressed are my own
 
 ### User Groups
 
+:soon:
+
 ### Facebook, LinkedIn, Telegram, WhatsApp and others
 
+* **GUOCB - Grupo de Usuários Oracle Cloud Brasil**
+https://t.me/GUOCB
+Este grupo é voltado a temas sobre OCI-Oracle Cloud Infrastructure:
+(IaaS, PaaS, Segurança, Gerenciamento, Autonomous Database IA, ML, GPU, DevOps, BlockChain, IoT, Cloud Native) desta forma compartilhar, questionar, responder e principalme Crescermos.
 
+* **[1Z0-932] Oracle Cloud Infra**
+https://t.me/ocibeginner
+This is FREE community for those working on Oracle Cloud or wish to kick-start their Journey to Cloud as Cloud Architect Certified [1Z0-932]. Ask your questions, learn about certification, or anything and everything related to Oracle Cloud
 
 ### Presentations
 
@@ -233,24 +258,11 @@ IaaS Product Manager @ Oracle. Views expressed are my own
 
 * [Oracle Cloud Infrastructure command line client and object storage](https://apextips.blogspot.com/2019/03/oracle-cloud-infrastructure-command.html) - Overview of setting up the OCI command line client and example usage against Oracle Cloud storage buckets.
 
-## IaaS
-
-IaaS, or Infrastructure-as-a-Service, includes any infrastructure from (database) servers to storage to networking.
-
-## PaaS
-
-PaaS, or Platform-as-a-Service, more of the middle tier where you don't need to be concerned with the infrastructure backing it.
-
-## SaaS
-
-SaaS, or Software-as-a-Service, allows using software on a subscription basis.
-
 ## Other Awesome Lists
 
 https://github.com/karthequian/awesome-oci
 
 https://github.com/tschf/awesome-oracle-cloud
-
 
 
 ## About this document
@@ -264,4 +276,4 @@ This list was not started, endorsed and is not maintained by Oracle Corporation.
 
 ### Contributing
 
-If you have or know of some useful resources surrounding Oracle Cloud, please go ahead and add it in via a Pull Request.
+:bangbang: If you have or know of some useful resources surrounding Oracle Cloud, please go ahead and add it in via a Pull Request or open a new Issue. Please contribute and let's make this list big and useful for the community. :bangbang:
